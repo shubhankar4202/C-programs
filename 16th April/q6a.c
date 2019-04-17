@@ -13,4 +13,5 @@ int main (int argc , char* argv)
  
 	printf("a = %d\nb = %d\n",a,b);
 	return 0;
+	// swapping without 3rd variable
 }
